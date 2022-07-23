@@ -32,7 +32,7 @@ export CHROME=<chromium_path>
 ## Usage
 
 ```
-$ ./checkGoogleDomains.js <chromium_path> <domain>
+$ ./checkGoogleDomains.js <domain>
 ```
 
 ### Examples
